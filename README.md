@@ -20,7 +20,7 @@ My name is Midhun.
 </details>
 
 <div align="center">
-<a href=" https://dev.to/midhunrnair"><img height="30" src="https://cdn.shopify.com/s/files/1/1626/8507/products/WonderDEV_1024x1024.png?v=1566402781"></a>&nbsp;&nbsp;
-<a href=" https://www.linkedin.com/in/midhunnair/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></a>&nbsp;&nbsp;
+<a href="https://dev.to/midhunrnair"><img height="30" src="https://cdn.shopify.com/s/files/1/1626/8507/products/WonderDEV_1024x1024.png?v=1566402781"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/midhunnair/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/midhun.nair/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"></a>&nbsp;&nbsp;
 </div>
