@@ -1,15 +1,15 @@
 # Namaste! <img src="https://github.com/midhun1998/midhun1998/blob/main/namaste.gif" width="30px">
 
-My name is Midhun.
-- 🔭 My forte is in DevOps, MLOps and Cloud.
+My name is Midhun. I'm currently operationalising infrastructure at scale and delivering applications and services at high velocity @ [Tata Consultancy Services](https://www.tcs.com/).
+- 🔭 My forte is in DevOps, MLOps and Cloud
 - :star2: I'm currently working on Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
-- 🌱 I’m currently learning Go lang.
-- :man_technologist: I’m looking to collaborate on new project ideas and code reviews.
-- 🤔 I’m looking to work on Operations side of things and would love to contribute to the code base as well.
-- 💬 Ask me about Python, Kubernetes, Automation, Linux and of course about myself.
+- 🌱 I’m currently learning Go lang
+- :man_technologist: I’m looking to collaborate on new project ideas and code reviews
+- 🤔 I’m looking to work on Operations side of things and would love to contribute to the code base as well
+- 💬 Ask me about Python, Kubernetes, Automation, Linux and of course about myself
 - 📫 How to reach me: dev.mid.work@gmail.com 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love debugging! 
+- ⚡ Fun fact: I'm multilingual
 
 
 <details>
