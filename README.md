@@ -1,6 +1,6 @@
 # Namaste! <img src="https://github.com/midhun1998/midhun1998/blob/main/namaste.gif" width="30px">
 
-My name is Midhun. I'm currently delivering applications and services at high velocity @ [Tata Consultancy Services](https://www.tcs.com/).
+My name is Midhun. I'm currently delivering applications and services at high velocity @ [Synopsys Inc.](https://www.synopsys.com/).
 - 🔭 My forte is in DevOps, MLOps and Cloud
 - :star2: I'm currently working on Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
 - 🌱 I’m currently learning Go lang
