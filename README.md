@@ -3,7 +3,6 @@
 My name is Midhun. I'm currently delivering applications and services at high velocity @ [Synopsys Inc.](https://www.synopsys.com/).
 - 🔭 My forte is in DevOps, MLOps and Cloud
 - :star2: I'm currently working on Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
-- 🌱 I’m currently learning Go lang
 - :man_technologist: I’m looking to collaborate on new project ideas and code reviews
 - 🤔 I’m looking to work on Operations side of things and would love to contribute to the code base as well
 - 💬 Ask me about Python, Kubernetes, Automation, Linux and of course about myself
