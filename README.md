@@ -5,7 +5,7 @@ My name is Midhun. I'm currently delivering applications and services at high ve
 - :star2: I'm currently working on Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
 - :man_technologist: I’m looking to collaborate on new project ideas and code reviews
 - 🤔 I’m looking to work on Operations side of things and would love to contribute to the code base as well
-- 💬 Ask me about Python, Kubernetes, Automation, Linux and of course about myself
+- 💬 Ask me about Python, Kubernetes, Automation, Linux, ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm multilingual
 
