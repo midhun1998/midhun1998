@@ -1,11 +1,11 @@
 # Namaste! <img src="https://github.com/midhun1998/midhun1998/blob/main/namaste.gif" width="30px">
 
-My name is Midhun. I'm currently delivering applications and services at high velocity @ [Synopsys Inc.](https://www.synopsys.com/).
+My name is Midhun. I'm currently working at [Synopsys Inc.](https://www.synopsys.com/).
 - 🔭 My forte is in DevOps, MLOps and Cloud
-- :star2: I'm currently working on Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
+- :star2: I'm currently working on Enterprise system migrations, Developer Tools, Kubeflow, AWS, Deployment automation, Kubernetes, Kafka, ...
 - :man_technologist: I’m looking to collaborate on new project ideas and code reviews
-- 🤔 I’m looking to work on Operations side of things and would love to contribute to the code base as well
-- 💬 Ask me about Python, Kubernetes, Automation, Linux, ...
+- 🤔 I’m looking to collaborate with like-minded peeps on the Development and Operations side of things 
+- 💬 Ask me about System integrations, Architecture, Kubernetes, Automation, Linux, ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm multilingual
 
