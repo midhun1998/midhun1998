@@ -1,9 +1,9 @@
 # Namaste! <img src="https://github.com/midhun1998/midhun1998/blob/main/namaste.gif" width="30px">
 
-My name is Midhun. I'm currently working at [Synopsys Inc.](https://www.synopsys.com/).
-- 🔭 My forte is in MLOps, DevTools, DevOps, and Cloud
-- :star2: I'm working on large-scale engineering problems through enterprise system migrations, developer tools, Kubeflow, AWS, deployment automation, Kubernetes, Kafka, and more
-- :man_technologist: I’m looking to collaborate on ideas and projects with like-minded peeps on the Development and Operations side of things
+My name is Midhun. I'm currently working at [Salesforce Inc.](https://www.salesforce.com/).
+- 🔭 My forte is in MLOps, LLMOps, DevTools, DevOps, and Cloud
+- :star2: I'm working on large-scale engineering problems, including enterprise system migrations and developer tools. I also spend time curating solutions in Kubeflow, AWS, deployment automation, Kubernetes, Kafka, and more
+- :man_technologist: I’m looking to collaborate on ideas and projects with like-minded peeps on the ML Engineering, Development, and Operations side of things
 - ⚡ Fun fact: I'm multilingual and I'm currently learning French
 
 <details>
